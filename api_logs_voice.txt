@@ -1,0 +1,42 @@
+Fecha y hora: 2024-05-08 16:40:18
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-05-08 17:07:21
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-05-08 17:11:06
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-05-08 17:12:03
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-05-08 17:15:01
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-05-08 17:15:52
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-05-08 17:17:17
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-05-08 17:18:15
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-05-08 17:19:02
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-05-08 17:24:07
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-06-24 04:50:48
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-06-25 19:08:38
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-06-26 22:17:55
+Respuesta de la API: {"error":{"code":111,"description":"Not enough credits"}}
+
+Fecha y hora: 2024-06-26 22:22:32
+Respuesta de la API: 
+

@@ -1,0 +1,29 @@
+Número Celular: 3005462640
+Respuesta de la API: 
+{"data":[{"celular":"573005462640","id_sms":42755366}],"message":"Mensaje Enviado Correctamente","status":"OK"}
+
+Fecha y Hora: 2024-05-07 16:24:14
+Número Celular: 3005462640
+Respuesta de la API: 
+{"data":[{"celular":"573005462640","id_sms":42755676}],"message":"Mensaje Enviado Correctamente","status":"OK"}
+
+Fecha y Hora: 2024-05-07 16:27:12
+Número Celular: 3005462640
+Respuesta de la API: 
+{"data":[{"celular":"573005462640","id_sms":42755962}],"message":"Mensaje Enviado Correctamente","status":"OK"}
+
+Fecha y Hora: 2024-05-07 16:28:50
+Número Celular: 3005462640
+Respuesta de la API: 
+{"data":[{"celular":"573005462640","id_sms":42756117}],"message":"Mensaje Enviado Correctamente","status":"OK"}
+
+Fecha y Hora: 2024-05-07 16:37:26
+Número Celular: 3005462640
+Respuesta de la API: 
+{"data":[{"celular":"573005462640","id_sms":42757422}],"message":"Mensaje Enviado Correctamente","status":"OK"}
+
+Fecha y Hora: 2024-06-26 18:57:08
+Número Celular: 3005462640
+Respuesta de la API: 
+{"data":[{"celular":"573005462640","id_sms":46388462}],"message":"Mensaje Enviado Correctamente","status":"OK"}
+
